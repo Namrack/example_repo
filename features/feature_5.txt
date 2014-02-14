@@ -1,0 +1,5 @@
+#this is feature5
+public int feature5()
+{
+	return 55;
+}
