@@ -1,5 +1,5 @@
-# this is feature 4
-public int feature4()
+# this is feature 3
+public int feature3_FIXED()
 {
-	return 34;
+	return 34_FIXED;
 }
