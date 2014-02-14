@@ -1,0 +1,5 @@
+# feature 2
+public int feature2()
+{
+	return 22;
+}
